@@ -1,8 +1,10 @@
 # Student Management System
-Overview
-This repository contains a C++ program for a Student Management System. The system allows users to manage students, users (admins or regular users), and generate various reports. It has a user-friendly command-line interface.
+**Overview**
+  This repository contains a C++ program for a Student Management System. 
+  The system allows users to manage students, users (admins or regular users), and generate various reports. 
+  It has a user-friendly command-line interface.
 
-Key Features
+**Key Features**
 User Management:
 
 Create, edit, and view user profiles.
@@ -27,13 +29,6 @@ Functii.cpp: Implements various functions for student and user management, file 
 
 main.cpp: Initiates the program by calling the START function from Functii.cpp.
 
-Usage
-Clone the repository: git clone https://github.com/your-username/student-management-system.git
-
-Compile the program: g++ main.cpp -o student_management_system
-
-Run the executable: ./student_management_system
-
-Notes
+**Notes**
 This project is intended as a demonstration of C++ programming skills.
 Feel free to contribute or provide feedback for improvement.
