@@ -25,7 +25,9 @@ The application is executed through the console, providing a straightforward int
 
 Clone the repository and compile the C++ code using a suitable compiler. Ensure the necessary dependencies are installed.
 
-## Contributing
+## Notes
 
-Contributions to the project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
+This project is intended as a demonstration of C++ programming skills.  
+Feel free to contribute or provide feedback for improvement.
+
 
