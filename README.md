@@ -29,15 +29,3 @@ Clone the repository and compile the C++ code using a suitable compiler. Ensure 
 
 Contributions to the project are welcome. Feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Author
-
-[Your Name]
-
----
-
-**Note:** Replace `[Your Name]` with your actual name in the "Author" section. Also, ensure that you have a LICENSE file in your repository with the appropriate license text.
-
